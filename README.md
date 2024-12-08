@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/andrew75313/Algorithm/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/andrew75313/Algorithm/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/andrew75313/Algorithm/tree/master/0045-jump-game-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -20,4 +21,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/andrew75313/Algorithm/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/andrew75313/Algorithm/tree/master/0045-jump-game-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/andrew75313/Algorithm/tree/master/0045-jump-game-ii) |
 <!---LeetCode Topics End-->
