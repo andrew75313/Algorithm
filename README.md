@@ -21,9 +21,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/andrew75313/Algorithm/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/andrew75313/Algorithm/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/andrew75313/Algorithm/tree/master/0045-jump-game-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/andrew75313/Algorithm/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/andrew75313/Algorithm/tree/master/0045-jump-game-ii) |
+## String
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/andrew75313/Algorithm/tree/master/0044-wildcard-matching) |
+## Recursion
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/andrew75313/Algorithm/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
