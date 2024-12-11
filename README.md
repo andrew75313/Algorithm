@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/andrew75313/Algorithm/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/andrew75313/Algorithm/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/andrew75313/Algorithm/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/andrew75313/Algorithm/tree/master/0053-maximum-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/andrew75313/Algorithm/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/andrew75313/Algorithm/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/andrew75313/Algorithm/tree/master/0053-maximum-subarray) |
 ## String
 |  |
 | ------- |
@@ -36,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/andrew75313/Algorithm/tree/master/0044-wildcard-matching) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/andrew75313/Algorithm/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
