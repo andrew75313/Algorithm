@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/andrew75313/Algorithm/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/andrew75313/Algorithm/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/andrew75313/Algorithm/tree/master/0055-jump-game) |
+| [0064-minimum-path-sum](https://github.com/andrew75313/Algorithm/tree/master/0064-minimum-path-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/andrew75313/Algorithm/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/andrew75313/Algorithm/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/andrew75313/Algorithm/tree/master/0055-jump-game) |
+| [0064-minimum-path-sum](https://github.com/andrew75313/Algorithm/tree/master/0064-minimum-path-sum) |
 ## String
 |  |
 | ------- |
@@ -45,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/andrew75313/Algorithm/tree/master/0053-maximum-subarray) |
+## Matrix
+|  |
+| ------- |
+| [0064-minimum-path-sum](https://github.com/andrew75313/Algorithm/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
