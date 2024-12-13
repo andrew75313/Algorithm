@@ -35,10 +35,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/andrew75313/Algorithm/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/andrew75313/Algorithm/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/andrew75313/Algorithm/tree/master/0064-minimum-path-sum) |
+| [0091-decode-ways](https://github.com/andrew75313/Algorithm/tree/master/0091-decode-ways) |
 ## String
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/andrew75313/Algorithm/tree/master/0044-wildcard-matching) |
+| [0091-decode-ways](https://github.com/andrew75313/Algorithm/tree/master/0091-decode-ways) |
 ## Recursion
 |  |
 | ------- |
