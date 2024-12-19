@@ -55,4 +55,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/andrew75313/Algorithm/tree/master/0064-minimum-path-sum) |
+## Math
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/andrew75313/Algorithm/tree/master/0365-water-and-jug-problem) |
+## Depth-First Search
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/andrew75313/Algorithm/tree/master/0365-water-and-jug-problem) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/andrew75313/Algorithm/tree/master/0365-water-and-jug-problem) |
 <!---LeetCode Topics End-->
