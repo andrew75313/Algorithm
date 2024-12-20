@@ -63,8 +63,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/andrew75313/Algorithm/tree/master/0365-water-and-jug-problem) |
+| [0871-keys-and-rooms](https://github.com/andrew75313/Algorithm/tree/master/0871-keys-and-rooms) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/andrew75313/Algorithm/tree/master/0365-water-and-jug-problem) |
+| [0871-keys-and-rooms](https://github.com/andrew75313/Algorithm/tree/master/0871-keys-and-rooms) |
+## Graph
+|  |
+| ------- |
+| [0871-keys-and-rooms](https://github.com/andrew75313/Algorithm/tree/master/0871-keys-and-rooms) |
 <!---LeetCode Topics End-->
