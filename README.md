@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/andrew75313/Algorithm/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/andrew75313/Algorithm/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/andrew75313/Algorithm/tree/master/0064-minimum-path-sum) |
+| [0322-coin-change](https://github.com/andrew75313/Algorithm/tree/master/0322-coin-change) |
 ## Hash Table
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/andrew75313/Algorithm/tree/master/0064-minimum-path-sum) |
 | [0091-decode-ways](https://github.com/andrew75313/Algorithm/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/andrew75313/Algorithm/tree/master/0097-interleaving-string) |
+| [0322-coin-change](https://github.com/andrew75313/Algorithm/tree/master/0322-coin-change) |
 ## String
 |  |
 | ------- |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/andrew75313/Algorithm/tree/master/0322-coin-change) |
 | [0365-water-and-jug-problem](https://github.com/andrew75313/Algorithm/tree/master/0365-water-and-jug-problem) |
 | [0871-keys-and-rooms](https://github.com/andrew75313/Algorithm/tree/master/0871-keys-and-rooms) |
 ## Graph
