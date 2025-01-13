@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/andrew75313/Algorithm/tree/master/0064-minimum-path-sum) |
 | [0130-surrounded-regions](https://github.com/andrew75313/Algorithm/tree/master/0130-surrounded-regions) |
 | [0322-coin-change](https://github.com/andrew75313/Algorithm/tree/master/0322-coin-change) |
+| [0675-cut-off-trees-for-golf-event](https://github.com/andrew75313/Algorithm/tree/master/0675-cut-off-trees-for-golf-event) |
 ## Hash Table
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0064-minimum-path-sum](https://github.com/andrew75313/Algorithm/tree/master/0064-minimum-path-sum) |
 | [0130-surrounded-regions](https://github.com/andrew75313/Algorithm/tree/master/0130-surrounded-regions) |
+| [0675-cut-off-trees-for-golf-event](https://github.com/andrew75313/Algorithm/tree/master/0675-cut-off-trees-for-golf-event) |
 ## Math
 |  |
 | ------- |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/andrew75313/Algorithm/tree/master/0130-surrounded-regions) |
 | [0322-coin-change](https://github.com/andrew75313/Algorithm/tree/master/0322-coin-change) |
 | [0365-water-and-jug-problem](https://github.com/andrew75313/Algorithm/tree/master/0365-water-and-jug-problem) |
+| [0675-cut-off-trees-for-golf-event](https://github.com/andrew75313/Algorithm/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0871-keys-and-rooms](https://github.com/andrew75313/Algorithm/tree/master/0871-keys-and-rooms) |
 ## Graph
 |  |
@@ -84,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/andrew75313/Algorithm/tree/master/0130-surrounded-regions) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0675-cut-off-trees-for-golf-event](https://github.com/andrew75313/Algorithm/tree/master/0675-cut-off-trees-for-golf-event) |
 <!---LeetCode Topics End-->
