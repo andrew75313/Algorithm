@@ -3,7 +3,7 @@ class Solution {
     int[] dx = new int[]{-1, 1, 0, 0};
     int[] dy = new int[]{0, 0, -1, 1};
     static final int LIMIT = 1000000; // big num 변수화
-    static final int MAX_CELLS = 19900; // 최대 셀 수 제한
+    static final int MAX_CELLS = 20000; // 최대 셀 수 제한
 
     public boolean isEscapePossible(int[][] blocked, int[] source, int[] target) {
         // blocked 좌표들을 set으로 변환
@@ -62,7 +62,9 @@ class Solution {
 
             // 탐색한 갯수를 추가하면서  count
             count += size;
-            if (count > MAX_CELLS) return true; // 최대 탐색 셀을 넘으면 경로가 있다고 판단
+            
+            // 최대 탐색 셀을 넘으면 경로가 있다고 판단
+            if (count > MAX_CELLS) return true; 
         }
 
         return false; // 목표에 도달하지 못한 경우
