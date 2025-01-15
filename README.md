@@ -15,10 +15,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/andrew75313/Algorithm/tree/master/0130-surrounded-regions) |
 | [0322-coin-change](https://github.com/andrew75313/Algorithm/tree/master/0322-coin-change) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/andrew75313/Algorithm/tree/master/0675-cut-off-trees-for-golf-event) |
+| [1106-escape-a-large-maze](https://github.com/andrew75313/Algorithm/tree/master/1106-escape-a-large-maze) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/andrew75313/Algorithm/tree/master/0001-two-sum) |
+| [1106-escape-a-large-maze](https://github.com/andrew75313/Algorithm/tree/master/1106-escape-a-large-maze) |
 ## Two Pointers
 |  |
 | ------- |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/andrew75313/Algorithm/tree/master/0130-surrounded-regions) |
 | [0365-water-and-jug-problem](https://github.com/andrew75313/Algorithm/tree/master/0365-water-and-jug-problem) |
 | [0871-keys-and-rooms](https://github.com/andrew75313/Algorithm/tree/master/0871-keys-and-rooms) |
+| [1106-escape-a-large-maze](https://github.com/andrew75313/Algorithm/tree/master/1106-escape-a-large-maze) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -79,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0365-water-and-jug-problem](https://github.com/andrew75313/Algorithm/tree/master/0365-water-and-jug-problem) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/andrew75313/Algorithm/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0871-keys-and-rooms](https://github.com/andrew75313/Algorithm/tree/master/0871-keys-and-rooms) |
+| [1106-escape-a-large-maze](https://github.com/andrew75313/Algorithm/tree/master/1106-escape-a-large-maze) |
 ## Graph
 |  |
 | ------- |
