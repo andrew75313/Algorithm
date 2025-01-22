@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0750-contain-virus](https://github.com/andrew75313/Algorithm/tree/master/0750-contain-virus) |
 | [0871-keys-and-rooms](https://github.com/andrew75313/Algorithm/tree/master/0871-keys-and-rooms) |
 | [1106-escape-a-large-maze](https://github.com/andrew75313/Algorithm/tree/master/1106-escape-a-large-maze) |
+| [2213-find-all-people-with-secret](https://github.com/andrew75313/Algorithm/tree/master/2213-find-all-people-with-secret) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -87,14 +88,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0750-contain-virus](https://github.com/andrew75313/Algorithm/tree/master/0750-contain-virus) |
 | [0871-keys-and-rooms](https://github.com/andrew75313/Algorithm/tree/master/0871-keys-and-rooms) |
 | [1106-escape-a-large-maze](https://github.com/andrew75313/Algorithm/tree/master/1106-escape-a-large-maze) |
+| [2213-find-all-people-with-secret](https://github.com/andrew75313/Algorithm/tree/master/2213-find-all-people-with-secret) |
 ## Graph
 |  |
 | ------- |
 | [0871-keys-and-rooms](https://github.com/andrew75313/Algorithm/tree/master/0871-keys-and-rooms) |
+| [2213-find-all-people-with-secret](https://github.com/andrew75313/Algorithm/tree/master/2213-find-all-people-with-secret) |
 ## Union Find
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/andrew75313/Algorithm/tree/master/0130-surrounded-regions) |
+| [2213-find-all-people-with-secret](https://github.com/andrew75313/Algorithm/tree/master/2213-find-all-people-with-secret) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -103,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0750-contain-virus](https://github.com/andrew75313/Algorithm/tree/master/0750-contain-virus) |
+## Sorting
+|  |
+| ------- |
+| [2213-find-all-people-with-secret](https://github.com/andrew75313/Algorithm/tree/master/2213-find-all-people-with-secret) |
 <!---LeetCode Topics End-->
