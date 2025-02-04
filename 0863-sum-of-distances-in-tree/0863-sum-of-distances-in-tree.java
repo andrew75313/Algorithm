@@ -1,73 +1,74 @@
+ import java.util.*; 
+
 class Solution {
 
-    public int[] distance;
+    public int[] dp;
     public int[] count;
-    public List<List<Integer>> graph;
 
     public int[] sumOfDistancesInTree(int n, int[][] edges) {
-        int[] total = new int[n];
+
+        dp = new int[n];
+        count = new int[n];
 
         // graph 만들기
-        graph = new ArrayList<>();
-
-        for(int i = 0; i < n; i++) {
-            graph.add(new ArrayList<>());
-        }
-
+        Map<Integer, List<Integer>> graph =  new HashMap<>();
         for(int[] edge : edges) {
             int start = edge[0];
             int end = edge[1];
 
-            graph.get(start).add(end);
-            graph.get(end).add(start);
+            graph.computeIfAbsent(start, k -> new ArrayList<>()).add(end);
+            graph.computeIfAbsent(end, k -> new ArrayList<>()).add(start);
         }
 
-        // graphy 기준 0 ~ 타겟노드 까지의 거리 distance에 넣기
-        distance = new int[n];
-        count = new int[n];
-
-        // 0 부터 타겟까지의 거리를 미리 저장
-        int target  = 0;
+        // dfs 재귀를 통한 0을 최종 부모로 한 dp 저장
+        // 초기 설정
+        int node = 0;
         int parent = -1;
-        dfs(target, parent);
+        dfs(graph, node, parent);
 
-        // 노드간의 거리를 계산해서 total에 저장
-        total[target] = distance[target];
-        calculateDist(target, parent, total);
+        // dp 저장값을 토대로 각 노드별 누적값 계산
+        // 초기설정
+        int[] total = new int[n];
+        total[node] = dp[node];
+        calculateDist(graph, node, parent, total);
 
         return total;
         
     }
 
-    public void dfs(int target, int parent) {
-        // 초기설정 본인 노드 세기, 거리 세기
-        count[target] = 1;
-        distance[target] = 0;
+    public void dfs(Map<Integer, List<Integer>> graph, int node, int parent) {
+        dp[node] = 0;
+        count[node] = 1;
 
-        for(int neighbor : graph.get(target)) {
-            // 부모가 똑같은 노드는 역행 막기 위해 패스
+        if(graph.get(node) == null) return;
+
+        for(int neighbor : graph.get(node)) {
+            // 역주행 막기
             if(neighbor == parent) continue;
 
             // 재귀
-            dfs(neighbor, target);
+            dfs(graph, neighbor, node);
 
-            count[target] += count[neighbor];
+            // 노드 갯수 누적
+            count[node] += count[neighbor];
 
-            // 결국 타겟까지의 거리는 dfs를 통한 노드의 갯수
-            distance[target] += distance[neighbor] + count[neighbor];
+            //dp 누적
+            dp[node] += dp[neighbor] + count[neighbor];
         }
     }
 
-    public void calculateDist(int target, int parent, int[] total) {
-        for(int neighbor : graph.get(target)) {
-            // 부모가 똑같은 노드는 역행 막기 위해 패스
+    public void calculateDist(Map<Integer, List<Integer>> graph, int node, int parent, int[] total) {
+        if(graph.get(node) == null) return;
+
+        for(int neighbor :  graph.get(node)) {
+            // 역주행 막기
             if(neighbor == parent) continue;
 
-            total[neighbor] = total[target] - count[neighbor] + (distance.length - count[neighbor]);
+            // parent(node) 를 활용해서 neighbor 까지의 누적 계산
+            total[neighbor] = total[node] - count[neighbor] + (dp.length - count[neighbor]);
 
-            calculateDist(neighbor, target, total);
-
+            // 재귀
+            calculateDist(graph, neighbor, node, total);
         }
-
     }
 }
