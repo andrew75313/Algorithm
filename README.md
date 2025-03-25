@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/andrew75313/Algorithm/tree/master/0097-interleaving-string) |
 | [0322-coin-change](https://github.com/andrew75313/Algorithm/tree/master/0322-coin-change) |
 | [0863-sum-of-distances-in-tree](https://github.com/andrew75313/Algorithm/tree/master/0863-sum-of-distances-in-tree) |
+| [2061-painting-a-grid-with-three-different-colors](https://github.com/andrew75313/Algorithm/tree/master/2061-painting-a-grid-with-three-different-colors) |
 ## String
 |  |
 | ------- |
