@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0750-contain-virus](https://github.com/andrew75313/Algorithm/tree/master/0750-contain-virus) |
 | [0854-making-a-large-island](https://github.com/andrew75313/Algorithm/tree/master/0854-making-a-large-island) |
 | [1106-escape-a-large-maze](https://github.com/andrew75313/Algorithm/tree/master/1106-escape-a-large-maze) |
+| [2105-the-number-of-good-subsets](https://github.com/andrew75313/Algorithm/tree/master/2105-the-number-of-good-subsets) |
 ## Hash Table
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/andrew75313/Algorithm/tree/master/0322-coin-change) |
 | [0863-sum-of-distances-in-tree](https://github.com/andrew75313/Algorithm/tree/master/0863-sum-of-distances-in-tree) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/andrew75313/Algorithm/tree/master/2061-painting-a-grid-with-three-different-colors) |
+| [2105-the-number-of-good-subsets](https://github.com/andrew75313/Algorithm/tree/master/2105-the-number-of-good-subsets) |
 ## String
 |  |
 | ------- |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/andrew75313/Algorithm/tree/master/0365-water-and-jug-problem) |
+| [2105-the-number-of-good-subsets](https://github.com/andrew75313/Algorithm/tree/master/2105-the-number-of-good-subsets) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -141,4 +144,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/andrew75313/Algorithm/tree/master/0042-trapping-rain-water) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2105-the-number-of-good-subsets](https://github.com/andrew75313/Algorithm/tree/master/2105-the-number-of-good-subsets) |
+## Bitmask
+|  |
+| ------- |
+| [2105-the-number-of-good-subsets](https://github.com/andrew75313/Algorithm/tree/master/2105-the-number-of-good-subsets) |
 <!---LeetCode Topics End-->
