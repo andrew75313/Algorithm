@@ -58,7 +58,7 @@ public class Solution {
 
             // 11111.. 에서 부터 하나씩 줄여가면서 진행 
              for(int j = (1 << PRIMES.length)-1 ; j >= 0; j--) {
-                // 마스크가 겹칠때만 dp에 갱신 
+                // 마스크가 겹치지 않을때  dp에 갱신 
                 if( (mask & j) == 0) {
                     dp[mask | j] = (dp[mask | j] + (int)((long)dp[j] * count[num] % MOD)) % MOD;
 
