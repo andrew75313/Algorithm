@@ -1,65 +1,62 @@
 class Solution {
     public int[] smallestSufficientTeam(String[] req_skills, List<List<String>> people) {
-        int totalSkills = req_skills.length;
-        int totalPeople = people.size();
-        
-        // req_ skill 순서대로 비트 마스크를 만듬
-        Map<String, Integer> skillMask =  new HashMap<>();
-        for(int i = 0; i < totalSkills; i++) {
-            skillMask.put(req_skills[i], 1<< i);
+        int skillNum = req_skills.length;
+        int pplNum = people.size();
+
+        // Map<스킬, 스킬 마스크> 만들기
+        Map<String, Integer> skillMask = new HashMap<>();
+        for(int i = 0; i < skillNum; i++) {
+            skillMask.put(req_skills[i], 1 << i);
         }
 
-        // 사람마다 각각의 스킬을 비트마스크로 만듬
-        int[] peopleMask =  new int[totalPeople];
-        for(int i = 0; i < totalPeople; i++) {
+        // 사람 스킬 -> 위 맵 사용해서 마스크 만들기
+        int[] pplMask = new int[pplNum];
+        for(int i = 0; i < pplNum; i++) {
             int mask = 0;
-
             for(String skill : people.get(i)) {
                 mask |= skillMask.get(skill); 
             }
-
-            peopleMask[i] = mask;
+            pplMask[i] = mask;
         }
 
-        // DP 설정
-        int[] dp = new int[1 << totalSkills];
-
-        // 초기화
+        // Dp  생성 + 초기화
+        int[] dp = new int[1 << skillNum];
         Arrays.fill(dp, -1);
         dp[0] = 0;
 
-        // 사람 기록  설정
-        Map<Integer, List<Integer>> team = new HashMap<>();
+        // Map<마스크,  사람인덱스 리스트> 생성
+        Map<Integer, List<Integer>> group = new HashMap<>();
 
-        // dp 진행
-        for(int i = 0; i < totalPeople; i++) {
-            int currSkillMask = peopleMask[i];
+        // DP 돌면서 최솟값갱신
+            // 최솟값 갱신시, 해당 마스크당 사람인덱스 List 갱신
+        for(int i = 0; i < pplNum; i++) {
+            int currSkillMask = pplMask[i];
 
-            // 0 부터( 1 << n)-1 까지 돌면서 dp 과정상 등록된 값이 있다면
-            // 다시 더해서 해당 값의 인원  수를 추가
-            for(int mask = (1 <<  totalSkills)-1 ;  mask >= 0; mask--) {
-                // dp 에 사람들의 조합으로 만들어져 있을때 = -1이 아닐떄
-                    // 위 사람의 skillMask와 mask 조합도 dp 값을 갱신하기 위해 없거나
-                    // 새 조합의 dp 값이 존재하면 -> 새로 등록할 dp[mask] + 1 명보다 더 많은 조합이 이미 등록되 어있다면 -> 새로 갱신해야함
+            for(int mask = (1 << skillNum) -1; mask>=0; mask--) {
+                int newSkillMask = currSkillMask | mask;
+                // dp에 mask 계산이 되어 있어야
+                    // 새로 갱신될 마스크 DP 값이 계산이 안되거나
+                 // 새로 갱신될 마스크 DP 의 이전 값이  dp[mask] +1 보다 크면 갱신 (최솟값 갱신이므로)
                 if(dp[mask] != -1) {
-                    int newSkillMask = currSkillMask | mask;
-                    if(dp[newSkillMask] == -1 || 
+                    if(dp[newSkillMask] == -1 ||
                     dp[newSkillMask] > dp[mask] + 1) {
                         dp[newSkillMask] = dp[mask] + 1;
 
-                        // 팀 새로운 팀으로갱신
-                        List<Integer> newTeam = new ArrayList<>(team.getOrDefault(mask, new ArrayList<>()));
-                        newTeam.add(i);
-                        team.put(newSkillMask, newTeam);
-                    }                    
+                        // 팀 새롭게 만들기
+                        List<Integer> newGroup = new ArrayList<>(group.getOrDefault(mask, new ArrayList<>()));
+                        newGroup.add(i);
+                        group.put(newSkillMask, newGroup);
+                    }  
+
                 }
+
             }
         }
 
-        // 가장 마지막 팀멤버 리스트
-        List<Integer> resultList = team.get((1 << totalSkills) - 1);
+        // 1<<skillNum -1 번째 인덱스 값에 해당하는 리스트 구하기
+        List<Integer> result = group.get((1 << skillNum)-1);
 
-        // Array로 반환
-        return resultList.stream().mapToInt(Integer::valueOf).toArray();
+        // 리스트 Array로 만들어 반환
+        return result.stream().mapToInt(Integer::valueOf).toArray();
     }
 }
