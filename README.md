@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0750-contain-virus](https://github.com/andrew75313/Algorithm/tree/master/0750-contain-virus) |
 | [0854-making-a-large-island](https://github.com/andrew75313/Algorithm/tree/master/0854-making-a-large-island) |
 | [1106-escape-a-large-maze](https://github.com/andrew75313/Algorithm/tree/master/1106-escape-a-large-maze) |
+| [1220-smallest-sufficient-team](https://github.com/andrew75313/Algorithm/tree/master/1220-smallest-sufficient-team) |
 | [1471-maximum-students-taking-exam](https://github.com/andrew75313/Algorithm/tree/master/1471-maximum-students-taking-exam) |
 | [2105-the-number-of-good-subsets](https://github.com/andrew75313/Algorithm/tree/master/2105-the-number-of-good-subsets) |
 ## Hash Table
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/andrew75313/Algorithm/tree/master/0097-interleaving-string) |
 | [0322-coin-change](https://github.com/andrew75313/Algorithm/tree/master/0322-coin-change) |
 | [0863-sum-of-distances-in-tree](https://github.com/andrew75313/Algorithm/tree/master/0863-sum-of-distances-in-tree) |
+| [1220-smallest-sufficient-team](https://github.com/andrew75313/Algorithm/tree/master/1220-smallest-sufficient-team) |
 | [1471-maximum-students-taking-exam](https://github.com/andrew75313/Algorithm/tree/master/1471-maximum-students-taking-exam) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/andrew75313/Algorithm/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2105-the-number-of-good-subsets](https://github.com/andrew75313/Algorithm/tree/master/2105-the-number-of-good-subsets) |
@@ -155,11 +157,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [1220-smallest-sufficient-team](https://github.com/andrew75313/Algorithm/tree/master/1220-smallest-sufficient-team) |
 | [1471-maximum-students-taking-exam](https://github.com/andrew75313/Algorithm/tree/master/1471-maximum-students-taking-exam) |
 | [2105-the-number-of-good-subsets](https://github.com/andrew75313/Algorithm/tree/master/2105-the-number-of-good-subsets) |
 ## Bitmask
 |  |
 | ------- |
+| [1220-smallest-sufficient-team](https://github.com/andrew75313/Algorithm/tree/master/1220-smallest-sufficient-team) |
 | [1471-maximum-students-taking-exam](https://github.com/andrew75313/Algorithm/tree/master/1471-maximum-students-taking-exam) |
 | [2105-the-number-of-good-subsets](https://github.com/andrew75313/Algorithm/tree/master/2105-the-number-of-good-subsets) |
 <!---LeetCode Topics End-->
