@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0675-cut-off-trees-for-golf-event](https://github.com/andrew75313/Algorithm/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0750-contain-virus](https://github.com/andrew75313/Algorithm/tree/master/0750-contain-virus) |
 | [0854-making-a-large-island](https://github.com/andrew75313/Algorithm/tree/master/0854-making-a-large-island) |
+| [1036-rotting-oranges](https://github.com/andrew75313/Algorithm/tree/master/1036-rotting-oranges) |
 | [1106-escape-a-large-maze](https://github.com/andrew75313/Algorithm/tree/master/1106-escape-a-large-maze) |
 | [1220-smallest-sufficient-team](https://github.com/andrew75313/Algorithm/tree/master/1220-smallest-sufficient-team) |
 | [1471-maximum-students-taking-exam](https://github.com/andrew75313/Algorithm/tree/master/1471-maximum-students-taking-exam) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0675-cut-off-trees-for-golf-event](https://github.com/andrew75313/Algorithm/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0750-contain-virus](https://github.com/andrew75313/Algorithm/tree/master/0750-contain-virus) |
 | [0854-making-a-large-island](https://github.com/andrew75313/Algorithm/tree/master/0854-making-a-large-island) |
+| [1036-rotting-oranges](https://github.com/andrew75313/Algorithm/tree/master/1036-rotting-oranges) |
 | [1471-maximum-students-taking-exam](https://github.com/andrew75313/Algorithm/tree/master/1471-maximum-students-taking-exam) |
 ## Math
 |  |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0750-contain-virus](https://github.com/andrew75313/Algorithm/tree/master/0750-contain-virus) |
 | [0854-making-a-large-island](https://github.com/andrew75313/Algorithm/tree/master/0854-making-a-large-island) |
 | [0871-keys-and-rooms](https://github.com/andrew75313/Algorithm/tree/master/0871-keys-and-rooms) |
+| [1036-rotting-oranges](https://github.com/andrew75313/Algorithm/tree/master/1036-rotting-oranges) |
 | [1106-escape-a-large-maze](https://github.com/andrew75313/Algorithm/tree/master/1106-escape-a-large-maze) |
 | [2213-find-all-people-with-secret](https://github.com/andrew75313/Algorithm/tree/master/2213-find-all-people-with-secret) |
 ## Graph
