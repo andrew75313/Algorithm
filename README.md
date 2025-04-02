@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/andrew75313/Algorithm/tree/master/0130-surrounded-regions) |
 | [0332-reconstruct-itinerary](https://github.com/andrew75313/Algorithm/tree/master/0332-reconstruct-itinerary) |
 | [0365-water-and-jug-problem](https://github.com/andrew75313/Algorithm/tree/master/0365-water-and-jug-problem) |
+| [0547-number-of-provinces](https://github.com/andrew75313/Algorithm/tree/master/0547-number-of-provinces) |
 | [0750-contain-virus](https://github.com/andrew75313/Algorithm/tree/master/0750-contain-virus) |
 | [0854-making-a-large-island](https://github.com/andrew75313/Algorithm/tree/master/0854-making-a-large-island) |
 | [0863-sum-of-distances-in-tree](https://github.com/andrew75313/Algorithm/tree/master/0863-sum-of-distances-in-tree) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/andrew75313/Algorithm/tree/master/0130-surrounded-regions) |
 | [0322-coin-change](https://github.com/andrew75313/Algorithm/tree/master/0322-coin-change) |
 | [0365-water-and-jug-problem](https://github.com/andrew75313/Algorithm/tree/master/0365-water-and-jug-problem) |
+| [0547-number-of-provinces](https://github.com/andrew75313/Algorithm/tree/master/0547-number-of-provinces) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/andrew75313/Algorithm/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0750-contain-virus](https://github.com/andrew75313/Algorithm/tree/master/0750-contain-virus) |
 | [0854-making-a-large-island](https://github.com/andrew75313/Algorithm/tree/master/0854-making-a-large-island) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/andrew75313/Algorithm/tree/master/0332-reconstruct-itinerary) |
+| [0547-number-of-provinces](https://github.com/andrew75313/Algorithm/tree/master/0547-number-of-provinces) |
 | [0863-sum-of-distances-in-tree](https://github.com/andrew75313/Algorithm/tree/master/0863-sum-of-distances-in-tree) |
 | [0871-keys-and-rooms](https://github.com/andrew75313/Algorithm/tree/master/0871-keys-and-rooms) |
 | [2213-find-all-people-with-secret](https://github.com/andrew75313/Algorithm/tree/master/2213-find-all-people-with-secret) |
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/andrew75313/Algorithm/tree/master/0130-surrounded-regions) |
+| [0547-number-of-provinces](https://github.com/andrew75313/Algorithm/tree/master/0547-number-of-provinces) |
 | [0854-making-a-large-island](https://github.com/andrew75313/Algorithm/tree/master/0854-making-a-large-island) |
 | [2213-find-all-people-with-secret](https://github.com/andrew75313/Algorithm/tree/master/2213-find-all-people-with-secret) |
 ## Heap (Priority Queue)
