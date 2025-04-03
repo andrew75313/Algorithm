@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1106-escape-a-large-maze](https://github.com/andrew75313/Algorithm/tree/master/1106-escape-a-large-maze) |
 | [1220-smallest-sufficient-team](https://github.com/andrew75313/Algorithm/tree/master/1220-smallest-sufficient-team) |
 | [1471-maximum-students-taking-exam](https://github.com/andrew75313/Algorithm/tree/master/1471-maximum-students-taking-exam) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/andrew75313/Algorithm/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2105-the-number-of-good-subsets](https://github.com/andrew75313/Algorithm/tree/master/2105-the-number-of-good-subsets) |
 ## Hash Table
 |  |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/andrew75313/Algorithm/tree/master/0854-making-a-large-island) |
 | [1036-rotting-oranges](https://github.com/andrew75313/Algorithm/tree/master/1036-rotting-oranges) |
 | [1471-maximum-students-taking-exam](https://github.com/andrew75313/Algorithm/tree/master/1471-maximum-students-taking-exam) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/andrew75313/Algorithm/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## Math
 |  |
 | ------- |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-keys-and-rooms](https://github.com/andrew75313/Algorithm/tree/master/0871-keys-and-rooms) |
 | [1036-rotting-oranges](https://github.com/andrew75313/Algorithm/tree/master/1036-rotting-oranges) |
 | [1106-escape-a-large-maze](https://github.com/andrew75313/Algorithm/tree/master/1106-escape-a-large-maze) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/andrew75313/Algorithm/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2213-find-all-people-with-secret](https://github.com/andrew75313/Algorithm/tree/master/2213-find-all-people-with-secret) |
 ## Graph
 |  |
