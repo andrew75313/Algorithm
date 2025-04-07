@@ -12,12 +12,14 @@ class Solution {
 
             if(nums[mid] < nums[mid + 1]) {
                 left = mid + 1;
+                // then, moved left can be the answer
                 index = left;
             }
 
             // right can be directly the answer so no -1
             if(nums[mid] > nums[mid + 1]) {
                 right = mid;
+                // right can be the answer
                 index = right;
             }
         }
