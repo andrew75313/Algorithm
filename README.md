@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1471-maximum-students-taking-exam](https://github.com/andrew75313/Algorithm/tree/master/1471-maximum-students-taking-exam) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/andrew75313/Algorithm/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2105-the-number-of-good-subsets](https://github.com/andrew75313/Algorithm/tree/master/2105-the-number-of-good-subsets) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/andrew75313/Algorithm/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Hash Table
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/andrew75313/Algorithm/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/andrew75313/Algorithm/tree/master/0042-trapping-rain-water) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/andrew75313/Algorithm/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Greedy
 |  |
 | ------- |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-find-all-people-with-secret](https://github.com/andrew75313/Algorithm/tree/master/2213-find-all-people-with-secret) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/andrew75313/Algorithm/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Eulerian Circuit
 |  |
 | ------- |
@@ -192,4 +195,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0162-find-peak-element](https://github.com/andrew75313/Algorithm/tree/master/0162-find-peak-element) |
 | [0907-koko-eating-bananas](https://github.com/andrew75313/Algorithm/tree/master/0907-koko-eating-bananas) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/andrew75313/Algorithm/tree/master/2392-successful-pairs-of-spells-and-potions) |
 <!---LeetCode Topics End-->
