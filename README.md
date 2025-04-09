@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-sum-of-distances-in-tree](https://github.com/andrew75313/Algorithm/tree/master/0863-sum-of-distances-in-tree) |
 | [0871-keys-and-rooms](https://github.com/andrew75313/Algorithm/tree/master/0871-keys-and-rooms) |
 | [1106-escape-a-large-maze](https://github.com/andrew75313/Algorithm/tree/master/1106-escape-a-large-maze) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/andrew75313/Algorithm/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2213-find-all-people-with-secret](https://github.com/andrew75313/Algorithm/tree/master/2213-find-all-people-with-secret) |
 ## Breadth-First Search
 |  |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-keys-and-rooms](https://github.com/andrew75313/Algorithm/tree/master/0871-keys-and-rooms) |
 | [1036-rotting-oranges](https://github.com/andrew75313/Algorithm/tree/master/1036-rotting-oranges) |
 | [1106-escape-a-large-maze](https://github.com/andrew75313/Algorithm/tree/master/1106-escape-a-large-maze) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/andrew75313/Algorithm/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/andrew75313/Algorithm/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2213-find-all-people-with-secret](https://github.com/andrew75313/Algorithm/tree/master/2213-find-all-people-with-secret) |
 ## Graph
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0863-sum-of-distances-in-tree](https://github.com/andrew75313/Algorithm/tree/master/0863-sum-of-distances-in-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/andrew75313/Algorithm/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Stack
 |  |
 | ------- |
@@ -196,4 +199,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/andrew75313/Algorithm/tree/master/0162-find-peak-element) |
 | [0907-koko-eating-bananas](https://github.com/andrew75313/Algorithm/tree/master/0907-koko-eating-bananas) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/andrew75313/Algorithm/tree/master/2392-successful-pairs-of-spells-and-potions) |
+## Binary Tree
+|  |
+| ------- |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/andrew75313/Algorithm/tree/master/1544-count-good-nodes-in-binary-tree) |
 <!---LeetCode Topics End-->
