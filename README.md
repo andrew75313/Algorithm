@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/andrew75313/Algorithm/tree/master/0130-surrounded-regions) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/andrew75313/Algorithm/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0332-reconstruct-itinerary](https://github.com/andrew75313/Algorithm/tree/master/0332-reconstruct-itinerary) |
 | [0365-water-and-jug-problem](https://github.com/andrew75313/Algorithm/tree/master/0365-water-and-jug-problem) |
 | [0547-number-of-provinces](https://github.com/andrew75313/Algorithm/tree/master/0547-number-of-provinces) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/andrew75313/Algorithm/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0863-sum-of-distances-in-tree](https://github.com/andrew75313/Algorithm/tree/master/0863-sum-of-distances-in-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/andrew75313/Algorithm/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/andrew75313/Algorithm/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/andrew75313/Algorithm/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/andrew75313/Algorithm/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/andrew75313/Algorithm/tree/master/1544-count-good-nodes-in-binary-tree) |
 <!---LeetCode Topics End-->
