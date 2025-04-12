@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/andrew75313/Algorithm/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/andrew75313/Algorithm/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/andrew75313/Algorithm/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/andrew75313/Algorithm/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/andrew75313/Algorithm/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/andrew75313/Algorithm/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/andrew75313/Algorithm/tree/master/0091-decode-ways) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/andrew75313/Algorithm/tree/master/0062-unique-paths) |
 | [0365-water-and-jug-problem](https://github.com/andrew75313/Algorithm/tree/master/0365-water-and-jug-problem) |
 | [2105-the-number-of-good-subsets](https://github.com/andrew75313/Algorithm/tree/master/2105-the-number-of-good-subsets) |
 ## Depth-First Search
@@ -210,4 +212,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/andrew75313/Algorithm/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/andrew75313/Algorithm/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/andrew75313/Algorithm/tree/master/1544-count-good-nodes-in-binary-tree) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/andrew75313/Algorithm/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
