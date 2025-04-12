@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-domino-and-tromino-tiling](https://github.com/andrew75313/Algorithm/tree/master/0806-domino-and-tromino-tiling) |
 | [0863-sum-of-distances-in-tree](https://github.com/andrew75313/Algorithm/tree/master/0863-sum-of-distances-in-tree) |
 | [1220-smallest-sufficient-team](https://github.com/andrew75313/Algorithm/tree/master/1220-smallest-sufficient-team) |
+| [1250-longest-common-subsequence](https://github.com/andrew75313/Algorithm/tree/master/1250-longest-common-subsequence) |
 | [1471-maximum-students-taking-exam](https://github.com/andrew75313/Algorithm/tree/master/1471-maximum-students-taking-exam) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/andrew75313/Algorithm/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/andrew75313/Algorithm/tree/master/2061-painting-a-grid-with-three-different-colors) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/andrew75313/Algorithm/tree/master/0044-wildcard-matching) |
 | [0091-decode-ways](https://github.com/andrew75313/Algorithm/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/andrew75313/Algorithm/tree/master/0097-interleaving-string) |
+| [1250-longest-common-subsequence](https://github.com/andrew75313/Algorithm/tree/master/1250-longest-common-subsequence) |
 ## Recursion
 |  |
 | ------- |
