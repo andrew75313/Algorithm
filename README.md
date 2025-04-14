@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/andrew75313/Algorithm/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/andrew75313/Algorithm/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/andrew75313/Algorithm/tree/master/0064-minimum-path-sum) |
+| [0072-edit-distance](https://github.com/andrew75313/Algorithm/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/andrew75313/Algorithm/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/andrew75313/Algorithm/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/andrew75313/Algorithm/tree/master/0097-interleaving-string) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/andrew75313/Algorithm/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0044-wildcard-matching](https://github.com/andrew75313/Algorithm/tree/master/0044-wildcard-matching) |
+| [0072-edit-distance](https://github.com/andrew75313/Algorithm/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/andrew75313/Algorithm/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/andrew75313/Algorithm/tree/master/0097-interleaving-string) |
 | [1250-longest-common-subsequence](https://github.com/andrew75313/Algorithm/tree/master/1250-longest-common-subsequence) |
