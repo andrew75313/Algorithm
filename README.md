@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/andrew75313/Algorithm/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/andrew75313/Algorithm/tree/master/0097-interleaving-string) |
 | [0198-house-robber](https://github.com/andrew75313/Algorithm/tree/master/0198-house-robber) |
+| [0279-perfect-squares](https://github.com/andrew75313/Algorithm/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/andrew75313/Algorithm/tree/master/0322-coin-change) |
 | [0474-ones-and-zeroes](https://github.com/andrew75313/Algorithm/tree/master/0474-ones-and-zeroes) |
 | [0518-coin-change-ii](https://github.com/andrew75313/Algorithm/tree/master/0518-coin-change-ii) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/andrew75313/Algorithm/tree/master/0062-unique-paths) |
+| [0279-perfect-squares](https://github.com/andrew75313/Algorithm/tree/master/0279-perfect-squares) |
 | [0365-water-and-jug-problem](https://github.com/andrew75313/Algorithm/tree/master/0365-water-and-jug-problem) |
 | [2105-the-number-of-good-subsets](https://github.com/andrew75313/Algorithm/tree/master/2105-the-number-of-good-subsets) |
 ## Depth-First Search
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/andrew75313/Algorithm/tree/master/0130-surrounded-regions) |
+| [0279-perfect-squares](https://github.com/andrew75313/Algorithm/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/andrew75313/Algorithm/tree/master/0322-coin-change) |
 | [0365-water-and-jug-problem](https://github.com/andrew75313/Algorithm/tree/master/0365-water-and-jug-problem) |
 | [0547-number-of-provinces](https://github.com/andrew75313/Algorithm/tree/master/0547-number-of-provinces) |
