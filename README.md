@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1105-uncrossed-lines](https://github.com/andrew75313/Algorithm/tree/master/1105-uncrossed-lines) |
 | [1220-smallest-sufficient-team](https://github.com/andrew75313/Algorithm/tree/master/1220-smallest-sufficient-team) |
 | [1250-longest-common-subsequence](https://github.com/andrew75313/Algorithm/tree/master/1250-longest-common-subsequence) |
+| [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/andrew75313/Algorithm/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1471-maximum-students-taking-exam](https://github.com/andrew75313/Algorithm/tree/master/1471-maximum-students-taking-exam) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/andrew75313/Algorithm/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/andrew75313/Algorithm/tree/master/2061-painting-a-grid-with-three-different-colors) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/andrew75313/Algorithm/tree/master/0097-interleaving-string) |
 | [0474-ones-and-zeroes](https://github.com/andrew75313/Algorithm/tree/master/0474-ones-and-zeroes) |
 | [1250-longest-common-subsequence](https://github.com/andrew75313/Algorithm/tree/master/1250-longest-common-subsequence) |
+| [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/andrew75313/Algorithm/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Recursion
 |  |
 | ------- |
