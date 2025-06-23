@@ -245,4 +245,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/andrew75313/Algorithm/tree/master/0062-unique-paths) |
+## Database
+|  |
+| ------- |
+| [0585-investments-in-2016](https://github.com/andrew75313/Algorithm/tree/master/0585-investments-in-2016) |
 <!---LeetCode Topics End-->
