@@ -250,4 +250,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0185-department-top-three-salaries](https://github.com/andrew75313/Algorithm/tree/master/0185-department-top-three-salaries) |
 | [0585-investments-in-2016](https://github.com/andrew75313/Algorithm/tree/master/0585-investments-in-2016) |
+| [1135-customers-who-bought-all-products](https://github.com/andrew75313/Algorithm/tree/master/1135-customers-who-bought-all-products) |
 <!---LeetCode Topics End-->
