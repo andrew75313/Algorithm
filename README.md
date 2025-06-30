@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1135-customers-who-bought-all-products](https://github.com/andrew75313/Algorithm/tree/master/1135-customers-who-bought-all-products) |
 | [1182-game-play-analysis-iv](https://github.com/andrew75313/Algorithm/tree/master/1182-game-play-analysis-iv) |
 | [1292-immediate-food-delivery-ii](https://github.com/andrew75313/Algorithm/tree/master/1292-immediate-food-delivery-ii) |
+| [1317-monthly-transactions-i](https://github.com/andrew75313/Algorithm/tree/master/1317-monthly-transactions-i) |
 | [1327-last-person-to-fit-in-the-bus](https://github.com/andrew75313/Algorithm/tree/master/1327-last-person-to-fit-in-the-bus) |
 | [1452-restaurant-growth](https://github.com/andrew75313/Algorithm/tree/master/1452-restaurant-growth) |
 | [2057-count-salary-categories](https://github.com/andrew75313/Algorithm/tree/master/2057-count-salary-categories) |
