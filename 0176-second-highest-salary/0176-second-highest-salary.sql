@@ -1,8 +1,14 @@
-SELECT
- (
+WITH
+salary_ranking AS (
     SELECT DISTINCT
-        salary
+        salary,
+        DENSE_RANK() OVER (ORDER BY salary DESC ) AS salary_rank
     FROM Employee
-    ORDER BY salary DESC
-    LIMIT 1 OFFSET 1
+)
+
+SELECT (
+    SELECT DISTINCT
+    salary
+FROM salary_ranking
+WHERE salary_rank = 2
 ) AS SecondHighestSalary
