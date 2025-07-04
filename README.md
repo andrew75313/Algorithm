@@ -264,5 +264,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1327-last-person-to-fit-in-the-bus](https://github.com/andrew75313/Algorithm/tree/master/1327-last-person-to-fit-in-the-bus) |
 | [1452-restaurant-growth](https://github.com/andrew75313/Algorithm/tree/master/1452-restaurant-growth) |
 | [1480-movie-rating](https://github.com/andrew75313/Algorithm/tree/master/1480-movie-rating) |
+| [1670-patients-with-a-condition](https://github.com/andrew75313/Algorithm/tree/master/1670-patients-with-a-condition) |
 | [2057-count-salary-categories](https://github.com/andrew75313/Algorithm/tree/master/2057-count-salary-categories) |
 <!---LeetCode Topics End-->
