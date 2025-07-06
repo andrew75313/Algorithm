@@ -1,30 +1,12 @@
-
-WITH confimed_count AS (
-    SELECT
-        user_id,
-        COUNT(*) AS total_confirmed
-    FROM Confirmations
-    WHERE action = 'confirmed'
-    GROUP BY 1
-),
-total_count AS (
-    SELECT
-        user_id,
-        COUNT(*) AS total_count
-    FROM Confirmations
-    GROUP BY 1
-)
-
-
 SELECT
-    S.user_id,
-    ROUND(
-        COALESCE(CC.total_confirmed, 0) / COALESCE(TC.total_count, 1)
-        ,2
-    ) AS confirmation_rate
+    user_id,
+    ROUND (
+        SUM(CASE WHEN action = 'confirmed' THEN 1 ELSE 0 END) /
+        COALESCE(COUNT(*), 1)
+    ,2) AS confirmation_rate
 FROM Signups S
-LEFT JOIN total_count TC
-ON TC.user_id = S.user_id
-LEFT JOIN confimed_count CC
-ON TC.user_id = CC.user_id
+LEFT JOIN Confirmations C
+USING (user_id)
+GROUP BY 1
 ORDER BY 1
+;
