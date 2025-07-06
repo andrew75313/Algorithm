@@ -267,4 +267,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1670-patients-with-a-condition](https://github.com/andrew75313/Algorithm/tree/master/1670-patients-with-a-condition) |
 | [1942-primary-department-for-each-employee](https://github.com/andrew75313/Algorithm/tree/master/1942-primary-department-for-each-employee) |
 | [2057-count-salary-categories](https://github.com/andrew75313/Algorithm/tree/master/2057-count-salary-categories) |
+| [2087-confirmation-rate](https://github.com/andrew75313/Algorithm/tree/master/2087-confirmation-rate) |
 <!---LeetCode Topics End-->
