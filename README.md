@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0180-consecutive-numbers](https://github.com/andrew75313/Algorithm/tree/master/0180-consecutive-numbers) |
 | [0185-department-top-three-salaries](https://github.com/andrew75313/Algorithm/tree/master/0185-department-top-three-salaries) |
 | [0262-trips-and-users](https://github.com/andrew75313/Algorithm/tree/master/0262-trips-and-users) |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/andrew75313/Algorithm/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0585-investments-in-2016](https://github.com/andrew75313/Algorithm/tree/master/0585-investments-in-2016) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/andrew75313/Algorithm/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0626-exchange-seats](https://github.com/andrew75313/Algorithm/tree/master/0626-exchange-seats) |
