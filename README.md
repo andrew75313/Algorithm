@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1327-last-person-to-fit-in-the-bus](https://github.com/andrew75313/Algorithm/tree/master/1327-last-person-to-fit-in-the-bus) |
 | [1452-restaurant-growth](https://github.com/andrew75313/Algorithm/tree/master/1452-restaurant-growth) |
 | [1480-movie-rating](https://github.com/andrew75313/Algorithm/tree/master/1480-movie-rating) |
+| [1523-capital-gainloss](https://github.com/andrew75313/Algorithm/tree/master/1523-capital-gainloss) |
 | [1670-patients-with-a-condition](https://github.com/andrew75313/Algorithm/tree/master/1670-patients-with-a-condition) |
 | [1811-fix-names-in-a-table](https://github.com/andrew75313/Algorithm/tree/master/1811-fix-names-in-a-table) |
 | [1942-primary-department-for-each-employee](https://github.com/andrew75313/Algorithm/tree/master/1942-primary-department-for-each-employee) |
