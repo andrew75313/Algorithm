@@ -13,6 +13,6 @@ SELECT
     S.name AS Employee,
     S.salary AS Salary
 FROM salary_ranking S
-LEFT JOIN Department D
+JOIN Department D
 ON S.departmentId = D.id
 WHERE S.rnk <= 3
