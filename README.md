@@ -276,4 +276,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2087-confirmation-rate](https://github.com/andrew75313/Algorithm/tree/master/2087-confirmation-rate) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/andrew75313/Algorithm/tree/master/2127-employees-whose-manager-left-the-company) |
 | [3792-find-invalid-ip-addresses](https://github.com/andrew75313/Algorithm/tree/master/3792-find-invalid-ip-addresses) |
+| [3932-find-covid-recovery-patients](https://github.com/andrew75313/Algorithm/tree/master/3932-find-covid-recovery-patients) |
 <!---LeetCode Topics End-->
