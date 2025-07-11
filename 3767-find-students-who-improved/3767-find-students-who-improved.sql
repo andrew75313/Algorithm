@@ -9,13 +9,14 @@ WITH more_exam AS (
 ),
 total_scores AS (
     SELECT DISTINCT
-        student_id,
-        subject,
-        FIRST_VALUE(score) OVER (PARTITION BY student_id, subject ORDER BY exam_date ASC) AS first_score,
-        FIRST_VALUE(score) OVER (PARTITION BY student_id, subject ORDER BY exam_date DESC) AS latest_score
-    FROM Scores
-    WHERE (student_id, subject) IN (SELECT student_id, subject FROM more_exam)
-    
+        S.student_id,
+        S.subject,
+        FIRST_VALUE(S.score) OVER (PARTITION BY S.student_id, S.subject ORDER BY S.exam_date ASC) AS first_score,
+        FIRST_VALUE(S.score) OVER (PARTITION BY S.student_id, S.subject ORDER BY S.exam_date DESC) AS latest_score
+    FROM Scores S
+    JOIN more_exam M
+    ON S.student_id = M.student_id AND S.subject = M.subject
+    WHERE M.cnt >= 2
 )
 
 SELECT
