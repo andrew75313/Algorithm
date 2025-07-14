@@ -277,5 +277,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2127-employees-whose-manager-left-the-company](https://github.com/andrew75313/Algorithm/tree/master/2127-employees-whose-manager-left-the-company) |
 | [3767-find-students-who-improved](https://github.com/andrew75313/Algorithm/tree/master/3767-find-students-who-improved) |
 | [3792-find-invalid-ip-addresses](https://github.com/andrew75313/Algorithm/tree/master/3792-find-invalid-ip-addresses) |
+| [3891-find-category-recommendation-pairs](https://github.com/andrew75313/Algorithm/tree/master/3891-find-category-recommendation-pairs) |
 | [3932-find-covid-recovery-patients](https://github.com/andrew75313/Algorithm/tree/master/3932-find-covid-recovery-patients) |
 <!---LeetCode Topics End-->
