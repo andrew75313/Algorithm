@@ -279,4 +279,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3792-find-invalid-ip-addresses](https://github.com/andrew75313/Algorithm/tree/master/3792-find-invalid-ip-addresses) |
 | [3891-find-category-recommendation-pairs](https://github.com/andrew75313/Algorithm/tree/master/3891-find-category-recommendation-pairs) |
 | [3932-find-covid-recovery-patients](https://github.com/andrew75313/Algorithm/tree/master/3932-find-covid-recovery-patients) |
+| [3942-find-drivers-with-improved-fuel-efficiency](https://github.com/andrew75313/Algorithm/tree/master/3942-find-drivers-with-improved-fuel-efficiency) |
 <!---LeetCode Topics End-->
