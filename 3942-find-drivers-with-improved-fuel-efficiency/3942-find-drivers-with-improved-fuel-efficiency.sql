@@ -26,6 +26,7 @@ valid_user_total_average AS (
         AVG(CASE WHEN half = 'second' THEN fuel_efficiency ELSE NULL END) AS second_half_avg
     FROM valid_user_average
     GROUP BY 1
+    HAVING first_half_avg < second_half_avg
 )
 
 SELECT
@@ -36,5 +37,4 @@ SELECT
     ROUND(V.second_half_avg - V.first_half_avg, 2) AS efficiency_improvement
 FROM valid_user_total_average V
 JOIN drivers D ON V.driver_id = D.driver_id
-WHERE first_half_avg < second_half_avg
 ORDER BY 5 DESC, 2 ASC
