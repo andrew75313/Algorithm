@@ -1,13 +1,4 @@
-WITH first_half AS (
-    SELECT *
-    FROM trips
-    WHERE MONTH(trip_date) >= 1 AND MONTH(trip_date) <= 6
-),
-second_half AS (
-    SELECT *
-    FROM trips
-    WHERE MONTH(trip_date) >= 7 AND MONTH(trip_date) <= 12
-),
+WITH
 valid_user_average AS (
     SELECT
         driver_id,
@@ -17,7 +8,6 @@ valid_user_average AS (
         END AS half,
         distance_km / fuel_consumed AS fuel_efficiency
     FROM trips
-    WHERE driver_id IN (SELECT driver_id FROM first_half) AND driver_id IN (SELECT driver_id FROM second_half)
 ),
 valid_user_total_average AS (
     SELECT
@@ -27,6 +17,7 @@ valid_user_total_average AS (
     FROM valid_user_average
     GROUP BY 1
     HAVING first_half_avg < second_half_avg
+        AND first_half_avg IS NOT NULL AND second_half_avg IS NOT NULL
 )
 
 SELECT
@@ -38,3 +29,4 @@ SELECT
 FROM valid_user_total_average V
 JOIN drivers D ON V.driver_id = D.driver_id
 ORDER BY 5 DESC, 2 ASC
+
