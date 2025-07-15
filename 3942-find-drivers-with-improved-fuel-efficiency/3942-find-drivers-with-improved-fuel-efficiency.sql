@@ -12,12 +12,12 @@ valid_user_average AS (
 valid_user_total_average AS (
     SELECT
         driver_id,
-        COALESCE(AVG(CASE WHEN half = 'first' THEN fuel_efficiency ELSE NULL END), 0) AS first_half_avg,
-        COALESCE(AVG(CASE WHEN half = 'second' THEN fuel_efficiency ELSE NULL END), 0) AS second_half_avg
+        AVG(CASE WHEN half = 'first' THEN fuel_efficiency ELSE NULL END) AS first_half_avg,
+        AVG(CASE WHEN half = 'second' THEN fuel_efficiency ELSE NULL END) AS second_half_avg
     FROM valid_user_average
     GROUP BY 1
     HAVING first_half_avg < second_half_avg
-        AND first_half_avg !=0 AND second_half_avg !=0
+        AND first_half_avg IS NOT NULL AND second_half_avg IS NOT NULL
 )
 
 SELECT
