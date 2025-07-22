@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2057-count-salary-categories](https://github.com/andrew75313/Algorithm/tree/master/2057-count-salary-categories) |
 | [2087-confirmation-rate](https://github.com/andrew75313/Algorithm/tree/master/2087-confirmation-rate) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/andrew75313/Algorithm/tree/master/2127-employees-whose-manager-left-the-company) |
+| [3530-odd-and-even-transactions](https://github.com/andrew75313/Algorithm/tree/master/3530-odd-and-even-transactions) |
 | [3767-find-students-who-improved](https://github.com/andrew75313/Algorithm/tree/master/3767-find-students-who-improved) |
 | [3792-find-invalid-ip-addresses](https://github.com/andrew75313/Algorithm/tree/master/3792-find-invalid-ip-addresses) |
 | [3828-analyze-organization-hierarchy](https://github.com/andrew75313/Algorithm/tree/master/3828-analyze-organization-hierarchy) |
