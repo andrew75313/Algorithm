@@ -1,5 +1,3 @@
-
-
 SELECT
     transaction_date,
     SUM(CASE WHEN type = 'odd' THEN amount ELSE 0 END) AS odd_sum,
