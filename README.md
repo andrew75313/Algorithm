@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/andrew75313/Algorithm/tree/master/0021-merge-two-sorted-lists) |
 | [0044-wildcard-matching](https://github.com/andrew75313/Algorithm/tree/master/0044-wildcard-matching) |
 ## Divide and Conquer
 |  |
@@ -291,4 +292,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3891-find-category-recommendation-pairs](https://github.com/andrew75313/Algorithm/tree/master/3891-find-category-recommendation-pairs) |
 | [3932-find-covid-recovery-patients](https://github.com/andrew75313/Algorithm/tree/master/3932-find-covid-recovery-patients) |
 | [3942-find-drivers-with-improved-fuel-efficiency](https://github.com/andrew75313/Algorithm/tree/master/3942-find-drivers-with-improved-fuel-efficiency) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/andrew75313/Algorithm/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
