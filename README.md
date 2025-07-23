@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/andrew75313/Algorithm/tree/master/0021-merge-two-sorted-lists) |
 | [0044-wildcard-matching](https://github.com/andrew75313/Algorithm/tree/master/0044-wildcard-matching) |
+| [0203-remove-linked-list-elements](https://github.com/andrew75313/Algorithm/tree/master/0203-remove-linked-list-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -296,4 +297,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/andrew75313/Algorithm/tree/master/0021-merge-two-sorted-lists) |
+| [0203-remove-linked-list-elements](https://github.com/andrew75313/Algorithm/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
