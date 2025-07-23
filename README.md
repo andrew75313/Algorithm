@@ -286,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3767-find-students-who-improved](https://github.com/andrew75313/Algorithm/tree/master/3767-find-students-who-improved) |
 | [3792-find-invalid-ip-addresses](https://github.com/andrew75313/Algorithm/tree/master/3792-find-invalid-ip-addresses) |
 | [3828-analyze-organization-hierarchy](https://github.com/andrew75313/Algorithm/tree/master/3828-analyze-organization-hierarchy) |
+| [3848-analyze-subscription-conversion](https://github.com/andrew75313/Algorithm/tree/master/3848-analyze-subscription-conversion) |
 | [3865-find-product-recommendation-pairs](https://github.com/andrew75313/Algorithm/tree/master/3865-find-product-recommendation-pairs) |
 | [3891-find-category-recommendation-pairs](https://github.com/andrew75313/Algorithm/tree/master/3891-find-category-recommendation-pairs) |
 | [3932-find-covid-recovery-patients](https://github.com/andrew75313/Algorithm/tree/master/3932-find-covid-recovery-patients) |
